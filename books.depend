@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1588631361 source:e:\programing\books\main.cpp
+	<stdio.h>
+	<string.h>
+
+1591031020 source:e:\programing\c\books\main.cpp
+	<stdio.h>
+	<string.h>
+
